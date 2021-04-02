@@ -1,0 +1,24 @@
+{
+  "name": "ZHSement",
+  "version": "0.1.2",
+  "summary": "ZHSement.",
+  "description": "「   converted automatically by plugin cocoapods-imy-bin @厦门美柚 - slj    」\n 标签选择控制器ZHSement",
+  "homepage": "https://github.com/caixiang305621856/ZHSegment",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "caixiang": "caix@mail.open.cn"
+  },
+  "source": {
+    "http": "http://localhost:8088/frameworks/ZHSement/0.1.2/zip",
+    "type": "zip"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "bin_ZHSement_0.1.2/Headers/*",
+  "public_header_files": "bin_ZHSement_0.1.2/Headers/*.h",
+  "vendored_libraries": "bin_ZHSement_0.1.2/*.a"
+}

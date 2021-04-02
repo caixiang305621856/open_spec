@@ -1,0 +1,37 @@
+{
+  "name": "SensorsAnalyticsSDK",
+  "version": "2.5.2",
+  "summary": "The official iOS SDK of Sensors Analytics.",
+  "homepage": "http://www.sensorsdata.cn",
+  "source": {
+    "http": "http://localhost:8088/frameworks/SensorsAnalyticsSDK/2.5.2/zip",
+    "type": "zip"
+  },
+  "license": {
+    "type": "Apache License, Version 2.0"
+  },
+  "authors": {
+    "Yuhan ZOU": "zouyuhan@sensorsdata.cn"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "frameworks": [
+    "UIKit",
+    "Foundation",
+    "SystemConfiguration",
+    "CoreTelephony",
+    "CoreGraphics",
+    "QuartzCore",
+    "CoreMotion"
+  ],
+  "libraries": [
+    "icucore",
+    "sqlite3",
+    "z"
+  ],
+  "source_files": "bin_SensorsAnalyticsSDK_2.5.2/Headers/*",
+  "public_header_files": "bin_SensorsAnalyticsSDK_2.5.2/Headers/*.h",
+  "vendored_libraries": "bin_SensorsAnalyticsSDK_2.5.2/*.a",
+  "description": "「   converted automatically by plugin cocoapods-imy-bin @厦门美柚 - slj    」"
+}

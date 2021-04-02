@@ -1,0 +1,24 @@
+{
+  "name": "CXTextView",
+  "version": "0.1.6",
+  "summary": "CXTextView",
+  "description": "「   converted automatically by plugin cocoapods-imy-bin @厦门美柚 - slj    」\n 自定义UITextView 解决换行文字被截断的效果，仿很多评论框效果",
+  "homepage": "https://github.com/caixiang305621856/CXTextView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "616704162@qq.com": "caix@mail.open.cn"
+  },
+  "source": {
+    "http": "http://localhost:8088/frameworks/CXTextView/0.1.6/zip",
+    "type": "zip"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "bin_CXTextView_0.1.6/Headers/*",
+  "public_header_files": "bin_CXTextView_0.1.6/Headers/*.h",
+  "vendored_libraries": "bin_CXTextView_0.1.6/*.a"
+}

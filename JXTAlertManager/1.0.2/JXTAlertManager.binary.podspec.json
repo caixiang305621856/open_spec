@@ -1,0 +1,26 @@
+{
+  "name": "JXTAlertManager",
+  "summary": "A library easy to use UIAlertView and UIAlertViewController on iOS.",
+  "authors": {
+    "kukumaluCN": "1145049339@qq.com"
+  },
+  "social_media_url": "https://www.jianshu.com/u/c8f8558a4b1d",
+  "version": "1.0.2",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "homepage": "https://github.com/kukumaluCN/JXTAlertManager",
+  "source": {
+    "http": "http://localhost:8088/frameworks/JXTAlertManager/1.0.2/zip",
+    "type": "zip"
+  },
+  "requires_arc": true,
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "bin_JXTAlertManager_1.0.2/Headers/*",
+  "public_header_files": "bin_JXTAlertManager_1.0.2/Headers/*.h",
+  "vendored_libraries": "bin_JXTAlertManager_1.0.2/*.a",
+  "description": "「   converted automatically by plugin cocoapods-imy-bin @厦门美柚 - slj    」"
+}

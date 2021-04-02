@@ -1,0 +1,35 @@
+{
+  "name": "AliyunOSSiOS",
+  "version": "2.10.8",
+  "summary": "An iOS SDK for Aliyun Object Storage Service",
+  "description": "「   converted automatically by plugin cocoapods-imy-bin @厦门美柚 - slj    」\n It's an SDK for aliyun object storage service, which implement by Objective-C.It helps the iOS developers to access the OSS easier.",
+  "homepage": "https://github.com/aliyun/AliyunOSSiOS",
+  "license": "Apache License, Version 2.0",
+  "authors": {
+    "Aliyun Open Service": "aliyuncloudcomputing"
+  },
+  "source": {
+    "http": "http://localhost:8088/frameworks/AliyunOSSiOS/2.10.8/zip",
+    "type": "zip"
+  },
+  "requires_arc": true,
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "bin_AliyunOSSiOS_2.10.8/Headers/*",
+  "ios": {
+    "frameworks": [
+      "SystemConfiguration",
+      "CoreTelephony"
+    ]
+  },
+  "osx": {
+    "frameworks": [
+      "SystemConfiguration",
+      "CoreTelephony"
+    ]
+  },
+  "libraries": "resolv",
+  "public_header_files": "bin_AliyunOSSiOS_2.10.8/Headers/*.h",
+  "vendored_libraries": "bin_AliyunOSSiOS_2.10.8/*.a"
+}

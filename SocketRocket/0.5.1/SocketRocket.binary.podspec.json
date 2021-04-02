@@ -1,0 +1,39 @@
+{
+  "name": "SocketRocket",
+  "version": "0.5.1",
+  "summary": "A conforming WebSocket (RFC 6455) client library.",
+  "homepage": "https://github.com/square/SocketRocket",
+  "authors": "Square",
+  "license": "Apache License, Version 2.0",
+  "source": {
+    "http": "http://localhost:8088/frameworks/SocketRocket/0.5.1/zip",
+    "type": "zip"
+  },
+  "source_files": "bin_SocketRocket_0.5.1/Headers/*",
+  "requires_arc": true,
+  "platforms": {
+    "ios": "6.0"
+  },
+  "ios": {
+    "frameworks": [
+      "CFNetwork",
+      "Security"
+    ]
+  },
+  "osx": {
+    "frameworks": [
+      "CoreServices",
+      "Security"
+    ]
+  },
+  "tvos": {
+    "frameworks": [
+      "CFNetwork",
+      "Security"
+    ]
+  },
+  "libraries": "icucore",
+  "public_header_files": "bin_SocketRocket_0.5.1/Headers/*.h",
+  "vendored_libraries": "bin_SocketRocket_0.5.1/*.a",
+  "description": "「   converted automatically by plugin cocoapods-imy-bin @厦门美柚 - slj    」"
+}

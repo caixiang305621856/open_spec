@@ -1,0 +1,25 @@
+{
+  "name": "CXPlayer",
+  "version": "0.2.1",
+  "summary": "CXPlayer",
+  "description": "「   converted automatically by plugin cocoapods-imy-bin @厦门美柚 - slj    」\n 视频播放器封装",
+  "homepage": "https://github.com/caixiang305621856/CXPlayer",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "caixiang": "yanyan305621856@sina.com"
+  },
+  "source": {
+    "http": "http://localhost:8088/frameworks/CXPlayer/0.2.1/zip",
+    "type": "zip"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "bin_CXPlayer_0.2.1/Headers/*",
+  "resources": "bin_CXPlayer_0.2.1/Resources/*",
+  "public_header_files": "bin_CXPlayer_0.2.1/Headers/*.h",
+  "vendored_libraries": "bin_CXPlayer_0.2.1/*.a"
+}

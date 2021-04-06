@@ -4,7 +4,7 @@
   "summary": "The official iOS SDK of Sensors Analytics.",
   "homepage": "http://www.sensorsdata.cn",
   "source": {
-    "http": "http://10.98.24.152:8088/frameworks/SensorsAnalyticsSDK/2.5.2/zip",
+    "http": "http://10.98.24.137:8088/frameworks/SensorsAnalyticsSDK/2.5.2/zip",
     "type": "zip"
   },
   "license": {

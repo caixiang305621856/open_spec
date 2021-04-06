@@ -9,7 +9,7 @@
     "Aliyun Open Service": "aliyuncloudcomputing"
   },
   "source": {
-    "http": "http://10.98.24.152:8088/frameworks/AliyunOSSiOS/2.10.8/zip",
+    "http": "http://10.98.24.137:8088/frameworks/AliyunOSSiOS/2.10.8/zip",
     "type": "zip"
   },
   "requires_arc": true,

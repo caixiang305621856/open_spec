@@ -15,7 +15,7 @@
   "source_files": "bin_UIAlertView-Blocks_1.0/Headers/*",
   "homepage": "https://github.com/jivadevoe/UIAlertView-Blocks",
   "source": {
-    "http": "http://10.98.24.152:8088/frameworks/UIAlertView-Blocks/1.0/zip",
+    "http": "http://10.98.24.137:8088/frameworks/UIAlertView-Blocks/1.0/zip",
     "type": "zip"
   },
   "public_header_files": "bin_UIAlertView-Blocks_1.0/Headers/*.h",

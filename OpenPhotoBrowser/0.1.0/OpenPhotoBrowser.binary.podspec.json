@@ -1,0 +1,39 @@
+{
+  "name": "OpenPhotoBrowser",
+  "version": "0.1.0",
+  "summary": "OpenPhotoBrowser.",
+  "description": "「   converted automatically by plugin cocoapods-imy-bin @厦门美柚 - slj    」\n TODO: Add long description of the pod here.",
+  "homepage": "https://gitee.com/caixiang19901217/OpenPhoyoBrowser",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "616704162@qq.com": "caix@mail.open.cn"
+  },
+  "source": {
+    "http": "http://localhost:8088/frameworks/OpenPhotoBrowser/0.1.0/zip",
+    "type": "zip"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "bin_OpenPhotoBrowser_0.1.0/Headers/*",
+  "resources": "bin_OpenPhotoBrowser_0.1.0/Resources/*",
+  "dependencies": {
+    "GPUImage": [
+      "0.1.7"
+    ],
+    "SDWebImage": [
+      "4.2.3"
+    ],
+    "OpenPublicLib": [
+
+    ],
+    "Toast": [
+
+    ]
+  },
+  "public_header_files": "bin_OpenPhotoBrowser_0.1.0/Headers/*.h",
+  "vendored_libraries": "bin_OpenPhotoBrowser_0.1.0/*.a"
+}

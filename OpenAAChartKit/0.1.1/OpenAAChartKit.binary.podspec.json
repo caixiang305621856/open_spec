@@ -1,0 +1,29 @@
+{
+  "name": "OpenAAChartKit",
+  "version": "0.1.1",
+  "summary": "OpenAAChartKit.",
+  "description": "「   converted automatically by plugin cocoapods-imy-bin @厦门美柚 - slj    」\n TODO: Add long description of the pod here.",
+  "homepage": "https://gitee.com/caixiang19901217/OpenAAChartKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "caixiang305621856": "caix@mail.open.cn"
+  },
+  "source": {
+    "http": "http://localhost:8088/frameworks/OpenAAChartKit/0.1.1/zip",
+    "type": "zip"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "bin_OpenAAChartKit_0.1.1/Headers/*",
+  "resources": "bin_OpenAAChartKit_0.1.1/Resources/*",
+  "prefix_header_contents": "#import \"AAGlobalMacro.h\"",
+  "ios": {
+    "frameworks": "UIKit"
+  },
+  "public_header_files": "bin_OpenAAChartKit_0.1.1/Headers/*.h",
+  "vendored_libraries": "bin_OpenAAChartKit_0.1.1/*.a"
+}

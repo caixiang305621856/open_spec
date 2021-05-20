@@ -12,7 +12,7 @@
     "616704162@qq.com": "caix@mail.open.cn"
   },
   "source": {
-    "http": "http://localhost:8088/frameworks/OpenPhotoBrowser/0.1.1/zip",
+    "http": "http://10.98.24.137:8088/frameworks/OpenPhotoBrowser/0.1.1/zip",
     "type": "zip"
   },
   "platforms": {

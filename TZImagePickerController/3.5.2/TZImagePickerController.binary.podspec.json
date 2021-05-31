@@ -11,7 +11,7 @@
     "ios": "8.0"
   },
   "source": {
-    "http": "http://localhost:8088/frameworks/TZImagePickerController/3.5.2/zip",
+    "http": "http://10.98.24.137:8088/frameworks/TZImagePickerController/3.5.2/zip",
     "type": "zip"
   },
   "requires_arc": true,
